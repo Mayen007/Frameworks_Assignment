@@ -1,6 +1,6 @@
 # index.py
 # CORD-19 Data Analysis Pipeline
-# Author: [Your Name]
+# Author: [Mayen007]
 # Description: Loads, cleans, analyzes, and visualizes the CORD-19 metadata.csv dataset.
 
 import pandas as pd
