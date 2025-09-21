@@ -420,3 +420,6 @@ FodyWeavers.xsd
 # Virtual environments
 venv/
 .venv/
+
+# CORD-19
+metadata.csv

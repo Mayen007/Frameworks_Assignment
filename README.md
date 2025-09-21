@@ -20,7 +20,9 @@ This project explores the CORD-19 COVID-19 research dataset using Python. It cov
    ```sh
    pip install -r requirements.txt
    ```
-3. Download the CORD-19 `metadata.csv` file and place it in the project folder.
+3. **Download the CORD-19 `metadata.csv` file** from Kaggle (the file is too large to include in this repo):
+   - [CORD-19 Research Challenge on Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)
+   - Place `metadata.csv` in the project folder.
 
 ## Usage
 
